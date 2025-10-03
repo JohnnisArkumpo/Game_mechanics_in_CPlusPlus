@@ -13,6 +13,8 @@ int main()
         cout << word << " ";
     }
     cout << endl;
+    cout << 95*88;
+    cout << endl;
 
     return 0;
 }
