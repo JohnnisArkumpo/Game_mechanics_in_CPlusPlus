@@ -8,12 +8,14 @@ int main()
 {
     vector<string> msg {"Hello", "World"};
 
+    string wordsnow = "New concept";
+
     for (const string& word : msg)
     {
         cout << word << " ";
     }
     cout << endl;
-    cout << 95*88;
+    cout << wordsnow;
     cout << endl;
 
     return 0;
